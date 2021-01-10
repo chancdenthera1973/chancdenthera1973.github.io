@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://chancdenthera1973.github.io/sitemap.xml
